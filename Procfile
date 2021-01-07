@@ -1,1 +1,1 @@
-web: java  $JAVA_OPTS -cp C:\Users\sewer\IdeaProjects\CloudHostedBot
+worker: java -jar target/Przydzielak-1.0-SNAPSHOT.jar
